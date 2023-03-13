@@ -26,5 +26,5 @@ int main(){
     cout <<"masukkan nilai bahasa indonesia=";
     cin >> nilb;
     cout << "status kelulusan =" << status(rerata(nilm, nilb)) <<endl;
-    cout << "status kelulusan =" << status2(rerata(nilm, nilb), nilm);70
+    cout << "status kelulusan =" << status2(rerata(nilm, nilb), nilm);
 }
